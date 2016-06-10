@@ -1,0 +1,23 @@
+.outer {
+    background-color:darkgrey;
+
+}
+
+.card {
+  background: #fff;
+  border-radius: 2px;
+  display: inline-block;
+  height: 900px;
+  margin: 70px 15px 10px 27px;
+  position: relative;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.logo-row{
+  margin-top:20px;  
+  text-align:center;
+}
+
+.logo-image{
+    margin:auto;
+}
